@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MisLugaresAdrianApp</string>
+    <string name="accion_salir">Exit</string>
+    <string name="accion_acerca_de">About</string>
+    <string name="accion_preferencias">Preferences</string>
+    <string name="accion_mostrar">Show</string>
+    <string name="tituloAplicacion">MisLugaresAdrian</string>
+    <string name="et_AcercaDe">APPLICATION ASTEROIDS: Hi, I\´am Adrián González. This program has been developed as an example to demonstrate how new activities can be launched from the main activity</string>
+    <string name="acercaDe">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_direccion">Direction</string>
+    <string name="tv_telefono">Telephone</string>
+    <string name="tv_direccionURI">DirectionURL</string>
+    <string name="tv_comentario">Comment</string>
+    <string name="tv_fecha">Date</string>
+    <string name="tv_hora">Time</string>
+    <string name="menu_editar">Edit</string>
+    <string name="menu_borrar">Delete</string>
+    <string name="nombre_edicionLugar">Name</string>
+    <string name="tipo_edicionLugar">Type</string>
+    <string name="direccion_edicionLugar">Direction</string>
+    <string name="telefono_edicionLugar">Telephone</string>
+    <string name="url_edicionLugar">URL</string>
+    <string name="comentario_edicionLugar">Comment</string>
+    <string name="texto_nombre">Something that identifies the place</string>
+    <string name="texto_direccion">Place address</string>
+    <string name="texto_telefono">Phone to contact</string>
+    <string name="texto_URL">Web page</string>
+    <string name="texto_Comentario">Enter your notes</string>
+</resources>

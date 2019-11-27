@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MisLugaresAdrianApp</string>
+    <string name="accion_salir">salir</string>
+    <string name="accion_acerca_de">acerca_de</string>
+    <string name="accion_preferencias">preferencias</string>
+    <string name="accion_mostrar">mostrar</string>
+    <string name="tituloAplicacion">MisLugaresAdrian</string>
+    <string name="et_AcercaDe">APLICACIÓN ASTEROIDES: Hola soy Adrián González. Este programa ha sido desarrollado como ejemplo para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal.</string>
+    <string name="acercaDe">Acerca De</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="tv_direccion">tv_direccion</string>
+    <string name="tv_telefono">tv_telefono</string>
+    <string name="tv_direccionURI">tv_direccionURL</string>
+    <string name="tv_comentario">tv_comentario</string>
+    <string name="tv_fecha">tv_fecha</string>
+    <string name="tv_hora">tv_hora</string>
+    <string name="menu_editar">Editar</string>
+    <string name="menu_borrar">Borrar</string>
+    <string name="nombre_edicionLugar">Nombre</string>
+    <string name="tipo_edicionLugar">Tipo</string>
+    <string name="direccion_edicionLugar">Direccion</string>
+    <string name="telefono_edicionLugar">Teléfono</string>
+    <string name="url_edicionLugar">URL</string>
+    <string name="comentario_edicionLugar">Comentario</string>
+    <string name="texto_nombre">Algo que identifique el lugar</string>
+    <string name="texto_direccion">Dirección del lugar</string>
+    <string name="texto_telefono">Teléfono para contactar</string>
+    <string name="texto_URL">Página web</string>
+    <string name="texto_Comentario">Introduce tus notas</string>
+</resources>
